@@ -1,7 +1,7 @@
 ### Olã! Eu sou o Lucas Silva
 
 
-- 🔭 Hoje eu trabalho com front-end
+- 🔭 Estudante de Fullstack Python e Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando JavaScript 
 - 📫 Contate-me no email: luscas.pessoal19@gmail.com
 
