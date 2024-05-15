@@ -1,4 +1,4 @@
-### Olã! Eu sou o Lucas Silva
+### Olá! Eu sou o Lucas Silva
 
 
 - 🔭 Estudante de Fullstack Python e Análise e Desenvolvimento de Sistemas
