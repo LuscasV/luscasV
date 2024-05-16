@@ -2,7 +2,7 @@
 
 
 - 🔭 Estudante de Fullstack Python e Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando JavaScript 
+- 🌱 Estudando React 
 - 📫 Contate-me no email: luscas.pessoal19@gmail.com
 
 
