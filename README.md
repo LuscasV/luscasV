@@ -1,11 +1,12 @@
 ### Olá! Eu sou o Lucas Silva
 
 
-- 🔭 Estudante de Fullstack Python e Análise e Desenvolvimento de Sistemas
-- 👨‍💻 Desenvolvedor Full-stack
-- 🌱 Estudando Python 
+- 👨‍💻 Desenvolvedor Full-stack com foco em aplicações web usando Python e React
+- 🔭 Graduando em Análise e Desenvolvimento de Sistemas
+- 🌱 Formado em Desenvolvedor Full-stack Python pela EBAC 
 - 📫 Contate-me no email: luscas.pessoal19@gmail.com
 
+## 🛠️ Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
